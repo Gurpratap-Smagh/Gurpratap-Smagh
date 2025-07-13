@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Gurpratap! <br/><a href="https://github.com/Gurpratap-Smagh">MERN-stack developer</a>, <a>Cybersecurity professional</a>
+
+
+
+
+<h2>Connect with me:</h2>
+<b>Linkedin: </b>https://www.linkedin.com/in/gurpratap-smagh/
+
+<h2>My Websites</h2>
+<b>Coursify: </b>https://github.com/Gurpratap-Smagh/Coursify
+
 
 <!--
-**Gurpratap-Smagh/Gurpratap-Smagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
