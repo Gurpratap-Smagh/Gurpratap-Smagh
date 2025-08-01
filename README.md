@@ -7,8 +7,8 @@
 <b>Linkedin: </b>https://www.linkedin.com/in/gurpratap-smagh/
 
 <h2>My Websites</h2>
-<b>Coursify: </b>coursify-psi.vercel.app   (~Secure course selling website)
-<b>Bromskiii wallet: </b>etherium-wallet-rouge.vercel.app   (~Ethereum web3 api)
+<b>Coursify: </b>https://coursify-psi.vercel.app   (~Secure course selling website)
+<b>Bromskiii wallet: </b>https://etherium-wallet-rouge.vercel.app   (~Ethereum web3 api)
 
 
 <!--
